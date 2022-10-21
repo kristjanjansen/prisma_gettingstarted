@@ -1,6 +1,6 @@
 ![](./prisma_gettingstarted.png)
 
-# Prisma getting started UI
+## Prisma getting started UI
 
 ### Installation and running
 
