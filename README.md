@@ -9,4 +9,4 @@ yarn
 yarn start
 ```
 
-See also a related [server component](https://github.com/kristjanjansen/studio_server).
+See also a related [server component](https://github.com/kristjanjansen/prisma_gettingstarted_server).
