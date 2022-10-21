@@ -1,6 +1,6 @@
-## Studio playground
+![](./prisma_gettingstarted.png)
 
-Explorations in Studio UI
+## Prisma getting started UI
 
 ### Installation and running
 
